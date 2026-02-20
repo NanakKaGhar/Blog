@@ -1,0 +1,11 @@
+title: Nanak Ka Ghar
+email: contact@nanakkaghar.org
+description: >- # this means to ignore newlines until "baseurl:"
+  A beautiful and elegant space for Nanak Ka Ghar.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.nanakkaghar.org" # the base hostname & protocol
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

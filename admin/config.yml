@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: main # Or "master", depending on what your GitHub repository uses
+
+# Tell the CMS where to save uploaded images
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "_posts" # Tells the CMS to save files in your Jekyll _posts folder
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Automatically names the file correctly for Jekyll
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "categories", widget: "string", default: "Update"}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
