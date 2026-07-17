@@ -17,11 +17,6 @@ were honored with special gifts to boost their confidence.
 **​A Commitment to the Future:** The Foundation interacted with the students,
 encouraging them to stay dedicated to their studies. ​At Nanak Ka Ghar Foundation, we believe that no child should face hurdles in their education. We have assured the students that if they encounter any difficulties in their studies in the future, they can always reach out to Nanak Ka Ghar for support and guidance.
 
-
-
-
-
-
 **नन्हे मन को सशक्त बनाना: 'नानक का घर फाउंडेशन' की एक पहल 🎓✨**
 
 ​31 मार्च को, नानक का घर फाउंडेशन द्वारा प्राइमरी स्कूल नंबर 11, रुड़की में एक विशेष सम्मान समारोह आयोजित किया गया। इस कार्यक्रम का उद्देश्य नन्हे विद्यार्थियों की शैक्षणिक उपलब्धियों का जश्न मनाना और उन्हें ज्ञान की प्राप्ति के लिए प्रोत्साहित करना था।
@@ -40,3 +35,5 @@ encouraging them to stay dedicated to their studies. ​At Nanak Ka Ghar Foundat
 में उन्हें अपनी पढ़ाई में किसी भी तरह की कठिनाई आती है, तो वे सहायता और मार्गदर्शन के लिए हमेशा 'नानक का घर' से संपर्क कर सकते हैं।
 
 **​नानक का घर फाउंडेशन** — **सेवा के प्रति समर्पित, शिक्षा के प्रति प्रतिबद्ध।**
+
+![Classroom](/assets/images/31-march-2026-primary-school-no-11-roorkee-04.jpeg "A classroom at Primary School No. 11, Roorkee, Uttrakhand, India")
